@@ -1,0 +1,8 @@
+{
+    "manager_id": null,
+    "api_base_url": "http://localhost:8000/api/v1",
+    "scan_interval_minutes": 1440,
+    "auto_start": true,
+    "machine_name": "",
+    "debug": false
+}
